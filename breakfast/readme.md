@@ -14,7 +14,7 @@ A traditional Mexican breakfast made from lightly fried corn tortillas simmered 
 | Servings | 4 |
 | Difficulty | Easy |
 | Tags | vegetarian, breakfast, quick, traditional |
-
+| Spice Level | 🌶️🌶️🌶️🌶️|
 ### Ingredients:
 - [ ] 8 corn tortillas, cut into triangles  
 - [ ] 2 tablespoons vegetable oil  
@@ -40,6 +40,6 @@ A traditional Mexican breakfast made from lightly fried corn tortillas simmered 
 For softer chilaquiles, allow the tortillas to simmer longer in the salsa.  
 For added protein, include shredded chicken or black beans.  
 Red salsa can be substituted for green salsa if preferred.
-
+Added Field , Spice Level 🌶️
 ### Author(s):
 Brendon, Wendy, Shinyoung, Steven, Kanika
