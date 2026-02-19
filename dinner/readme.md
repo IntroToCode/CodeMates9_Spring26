@@ -59,6 +59,8 @@
 
 ### Notes:
 You can make this a day ahead by assembling and keeping in the fridge until you bake. You can also freeze it and deliver it to your friends who just had babies. You will be their new favorite person.
+
+Spice Level: 🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s):
