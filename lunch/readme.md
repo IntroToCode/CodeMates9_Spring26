@@ -7,7 +7,7 @@ Where does it come from? What makes it a great lunch option? -->
 
 ---
 
-## Stats
+## Stats for Lunch
 
 | Field | Info |
 |-------|------|
