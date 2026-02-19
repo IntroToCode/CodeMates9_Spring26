@@ -32,5 +32,7 @@
 ### Notes:
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
+# Beverage pairings
+Nothing goes with lasagne bolognese like a dry Chianti. For the non-alcoholics, we'll have sparkly Pellegrino on hand
 
 ### Author(s):
