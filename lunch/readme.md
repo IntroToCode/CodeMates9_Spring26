@@ -16,7 +16,7 @@ A Japanese-inspired chicken teriyaki bowl served over steamed white rice with a 
 | Servings | 2 |
 | Difficulty | Easy |
 | Tags | lunch, high-protein, meal-prep, quick |
-
+| Spice level | 🌶️🌶️🌶️
 ---
 
 ### Ingredients:
