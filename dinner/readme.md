@@ -33,6 +33,6 @@
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 # Beverage pairings
-Nothing goes with lasagne bolognese like a dry Chianti. For the non-alcoholics, we'll have sparkly Pellegrino on hand
+Nothing goes with lasagne bolognese like a dry Chianti, and for Brendan a Dark n Stormy. For the non-alcoholics, we'll have sparkly Pellegrino on hand
 
 ### Author(s):
