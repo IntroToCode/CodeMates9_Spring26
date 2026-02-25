@@ -17,6 +17,7 @@ Where does it come from? What makes it a great lunch option? -->
 | Servings | e.g. 4 |
 | Difficulty | Easy / Medium / Hard |
 | Tags | e.g. lunch, high-protein, vegetarian, meal-prep, quick |
+| Spice Level | 🌶️🌶️ |
 
 ---
 
