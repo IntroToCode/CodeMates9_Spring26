@@ -14,7 +14,7 @@ A traditional Mexican breakfast made from lightly fried corn tortillas simmered 
 | Servings | 4 |
 | Difficulty | Easy |
 | Tags | vegetarian, breakfast, quick, traditional |
-| Spice Level | 🌶️🌶️🌶️🌶️|
+| Spice Level | 🌶️🌶️🌶️|
 ### Ingredients:
 - [ ] 8 corn tortillas, cut into triangles  
 - [ ] 2 tablespoons vegetable oil  
