@@ -8,13 +8,13 @@ This is a recipe for lasagna which everyone loves. Can't wait to share it with y
 
 | Field | Info |
 |-------|------|
-| Prep Time | 30 minutes |
-| Cook Time | 45 minutes |
-| Total Time | 75 minutes |
-| Servings | 6 or 4 depending on how hungry you are |
-| Difficulty | Medium |
-| Tags | make-ahead | 
-| Spice Level | 🌶️🌶️ |
+Prep Time	30 minutes
+Cook Time	50 minutes
+Total Time	1 hour 20 minutes
+Servings	6–8
+Difficulty	Medium
+Tags	Italian, comfort food, make-ahead, family dinner
+
 <!-- Note the fields in the markdown table -->
 
  12 lasagna noodles

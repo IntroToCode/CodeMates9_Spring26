@@ -10,13 +10,12 @@ A Japanese-inspired chicken teriyaki bowl served over steamed white rice with a 
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 20 minutes |
-| Cook Time | e.g. 25 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. lunch, high-protein, vegetarian, meal-prep, quick |
-| Spice Level | 🌶️🌶️ |
+| Prep Time | 10 minutes |
+| Cook Time | 20 minutes |
+| Total Time | 30 minutes |
+| Servings | 2 |
+| Difficulty | Easy |
+| Tags | lunch, high-protein, meal-prep, quick |
 
 ---
 
