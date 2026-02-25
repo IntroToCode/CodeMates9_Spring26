@@ -99,3 +99,4 @@ Chicken reheats best in skillet.
 ### Author(s):
 
 Steven Kim
+Wendy Rasmussen
