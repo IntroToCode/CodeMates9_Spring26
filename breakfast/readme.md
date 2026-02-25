@@ -40,7 +40,7 @@ A traditional Mexican breakfast made from lightly fried corn tortillas simmered 
 For softer chilaquiles, allow the tortillas to simmer longer in the salsa.  
 For added protein, include shredded chicken or black beans.  
 Red salsa can be substituted for green salsa if preferred.
-
+Added Field , Spice Level 🌶️
 ### Author(s):
 Wendy
 Brendon
