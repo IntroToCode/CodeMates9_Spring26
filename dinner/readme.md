@@ -11,8 +11,8 @@
 | Total Time | 75 minutes |
 | Servings | 6 or 4 depending on how hungry you are |
 | Difficulty | Medium |
-| Tags | make-ahead | Spice Level 🌶️🌶️ |
-
+| Tags | make-ahead | 
+| Spice Level | 🌶️🌶️ |
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
