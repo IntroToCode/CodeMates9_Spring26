@@ -42,4 +42,4 @@ For added protein, include shredded chicken or black beans.
 Red salsa can be substituted for green salsa if preferred.
 Added Field , Spice Level 🌶️
 ### Author(s):
-Steven
+Brendon, Wendy, Shinyoung, Steven, Kanika
