@@ -42,4 +42,8 @@ For added protein, include shredded chicken or black beans.
 Red salsa can be substituted for green salsa if preferred.
 
 ### Author(s):
-Brendon, Wendy, Shinyoung, Steven, Kanika
+Wendy
+Brendon
+Shinyoung
+Steven
+Kanika
