@@ -68,3 +68,4 @@ Wendy Rasmussen
 Brendon Bagley
 Kanika Sharma
 Steven Kim
+Shinyoung Kim
