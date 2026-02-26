@@ -8,13 +8,13 @@ This is a recipe for lasagna which everyone loves. Can't wait to share it with y
 
 | Field | Info |
 |-------|------|
-Prep Time	30 minutes
-Cook Time	50 minutes
-Total Time	1 hour 20 minutes
-Servings	6–8
-Difficulty	Medium
-Tags	Italian, comfort food, make-ahead, family dinner
-
+| Prep Time | 30 minutes |
+| Cook Time | 45 minutes |
+| Total Time | 75 minutes |
+| Servings | 6 or 4 depending on how hungry you are |
+| Difficulty | Medium |
+| Tags | make-ahead | 
+| Spice Level | 🌶️🌶️ |
 <!-- Note the fields in the markdown table -->
 
  12 lasagna noodles
@@ -54,9 +54,17 @@ Garnish with fresh parsley if desired, slice into portions, and serve warm.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
+You can make this a day ahead by assembling and keeping in the fridge until you bake. You can also freeze it and deliver it to your friends who just had babies. You will be their new favorite person.
+
+
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 # Beverage pairings
-Nothing goes with lasagna bolognese like a dry Chianti, and for Brendan a Dark n Stormy. For the non-alcoholics, we'll have sparkly Pellegrino on hand
+Nothing goes with lasagna bolognese like a dry Chianti. For the non-alcoholics, we'll have sparkly Pellegrino on hand
 
 ### Author(s):
+Wendy Rasmussen
+Brendon Bagley
+Kanika Sharma
+Steven Kim
+Shinyoung Kim
